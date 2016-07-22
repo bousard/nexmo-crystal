@@ -7,7 +7,7 @@ Nexmo REST API client for Crystal.
 
 Add nexmo-crystal as a dependency in `shards.yml`:
 
-```crystal
+```yaml
 dependencies:
   nexmo:
     github: timcraft/nexmo-crystal.cr
