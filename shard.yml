@@ -1,0 +1,8 @@
+name: nexmo
+version: 1.0.0
+license: MIT
+
+development_dependencies:
+  webmock:
+    github: manastech/webmock.cr
+    branch: master
